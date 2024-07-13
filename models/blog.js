@@ -2,7 +2,8 @@
 
 const mongoose = require('mongoose')
 const logger = require('../utils/logger')
-const url = process.env.MONGODB_URL
+const config = require('../utils/config')
+const url = config.MONGODB_URL
 mongoose.set('strictQuery', false)
 
 mongoose.connect(url)
