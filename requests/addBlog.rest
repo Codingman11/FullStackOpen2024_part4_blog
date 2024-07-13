@@ -5,7 +5,7 @@ POST http://localhost:3001/api/blogs/ HTTP/1.1
 content-type: application/json
 
 {
-  "title": "steeeadsf",
+  "title": "steeeadfsf",
   "author": "JP",
   "url": "https://www.amazon.com/MoKo-Stretchable-Reusable-Protector-Hardcover/dp/B0CZMWLK4B/ref=sr_1_5?dib=eyJ2IjoiMSJ9.HHvIUHfg-MFiHnkWqqEBUILp-SvlVs-Z1wRYPr90y-vGmN-tl4t7ehrtVxek3veEzIvPDSsOwISxwY9NCWtey95w9mAJJ8XhSCiXdOfqPxBaAt8W3dum6DN08v7e7w4fq3ipKsWE5rQjrdX34rLNtvlUYkW8EFHj9zXxt0H3FyK0vIPKEeV_S8PP-NPJjkyNTo2ok3dePJGhviWdK4oTmdK_pw7pucFmSmgVXv6stDCY42ZJJSr5s__bceqCCZP7bjhPEwEBW7kvhkeylfrYHbXKvWDNW0xUSfgomHCCaZA.HN_aAY7zGrFz879Prz01__bBTyKHlfv720WnYhkJ-KU&dib_tag=se&keywords=book+covers&qid=1720901564&sr=8-5",
   "likes": 1
